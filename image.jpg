@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Shamika Mims - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Shamika Mims</h1>
+        <nav>
+            <ul> 
+                <li><a href="aboutme.html">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="#certificate">Certificate</a></li>
+            </ul>
+project 1 { 
+    background-image: url('c:\Users\SHAMIKA\Downloads\newproject1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+project 2 { 
+    background-image: url('c:\Users\SHAMIKA\Downloads\project2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+    
+}
+        </nav>
+    </header> 
+    
+projects { 
+    background-image: url('images/your-image-name.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
